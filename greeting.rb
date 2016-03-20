@@ -1,5 +1,5 @@
 def greeting
-    ARGV.each do |arg|
-     puts "{#Salutation}, {#arg}!"
-    end
+  ARGV.each do |arg|
+    puts "{#Salutation}, {#arg}!"
+  end
 end
